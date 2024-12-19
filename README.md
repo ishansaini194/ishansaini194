@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishansaini194&label=Profile%20views&color=0e75b6&style=flat" alt="ishansaini194" /> </p>
 
-- 🌱 I’m currently learning **JAVA, Flutter**
+- 🌱 I’m currently learning **JAVA, WebDev**
 
 - 📫 How to reach me **https://www.instagram.com/iamishansaini?igsh=MWx4aDMzcmpoemJxbw==**
 
