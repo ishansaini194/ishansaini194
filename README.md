@@ -4,11 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishansaini194&label=Profile%20views&color=0e75b6&style=flat" alt="ishansaini194" /> </p>
 
-- 🌱 I’m currently learning **JAVA, WebDev**
+- 🌱 I’m currently learning **Go, Cloud**
 
 - 📫 How to reach me **https://www.instagram.com/iamishansaini?igsh=MWx4aDMzcmpoemJxbw==**
-
-- ⚡ Fun fact **I am a profitable trader**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
