@@ -18,7 +18,3 @@
 
 ---
 
-### 🛠️ Contributions
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ishansaini194&hide_border=true&theme=default)
-
-![Contributions](https://github-contributor-stats.vercel.app/api?username=ishansaini194&limit=5&hide_border=true&theme=default)
