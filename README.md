@@ -7,11 +7,9 @@
 
 ---
 
-### 👨‍💻 About Me
-- 🎓 Computer Science & Business student  
+### 👨‍💻 About Me 
 - ⚙️ Passionate about **DevOps, Cloud Infrastructure & Automation**
-- 🚀 Hands-on with **CI/CD pipelines, containerization, and cloud-native tools**
-- 🔍 Actively seeking **DevOps Intern / Fresher roles**
+- 🚀 Experience with **Docker, Kubernetes, GitHub Actions, and Golang**
 
 ---
 
@@ -47,9 +45,17 @@
 ---
 
 ### 📊 GitHub Stats
-<img src="https://streak-stats.demolab.com?user=ishansaini194&theme=tokyonight&hide_border=true"/>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishansaini194&layout=donut&hide_border=true&theme=tokyonight"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=ishansaini194&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&cache_seconds=86400"
+    height="165"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishansaini194&layout=donut&hide_border=true&theme=tokyonight&cache_seconds=86400"
+  />
 </p>
 
 ---
