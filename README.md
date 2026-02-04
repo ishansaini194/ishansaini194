@@ -6,18 +6,12 @@
 
 <img align="right" src="https://avatars.githubusercontent.com/ishansaini194" width="200" style="border-radius:50%; border:2px solid #ddd; box-shadow: 0 0 10px rgba(0,0,0,0.1);" alt="Ishan Saini" />
 
-### 👨‍💻 About Me
-- LinkedIn **[ishan-saini20](https://www.linkedin.com/in/ishan-saini20)**
-- Email **ishan.saini880@gmail.com**
-
 ---
 
 
 ## 👨‍💻 About Me
-- 🎓 Computer Science student at **Thapar Institute of Engineering & Technology**
 - ⚙️ Interested in **DevOps, Backend Systems & Cloud**
 - 🐳 Hands-on with CI/CD pipelines, Docker & Linux
-- 📈 Actively applying for **DevOps / Backend Intern & Fresher roles**
 - 🌱 Currently learning **Golang & Kubernetes**
 
 📫 **Email:** ishan.saini880@gmail.com  
