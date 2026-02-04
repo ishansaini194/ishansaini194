@@ -12,39 +12,37 @@
 
 ---
 
-### 🧰 Tech Stack
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+
+## 👨‍💻 About Me
+- 🎓 Computer Science student at **Thapar Institute of Engineering & Technology**
+- ⚙️ Interested in **DevOps, Backend Systems & Cloud**
+- 🐳 Hands-on with CI/CD pipelines, Docker & Linux
+- 📈 Actively applying for **DevOps / Backend Intern & Fresher roles**
+- 🌱 Currently learning **Golang & Kubernetes**
+
+📫 **Email:** ishan.saini880@gmail.com  
+💼 **LinkedIn:** [linkedin.com/in/ishan-saini20](https://www.linkedin.com/in/ishan-saini20)
+
+---
+
+## 🧰 Tech Stack
+
+### 🚀 DevOps & Cloud
+<p> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" /> <img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" /> </p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=ishansaini194&show_icons=true&theme=transparent&hide_border=true&cache_seconds=21600"
+    height="165"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishansaini194&layout=compact&theme=transparent&hide_border=true&cache_seconds=21600"
+    height="165"
+  />
 </p>
 
 ---
-
-### 📊 GitHub Stats
-<table>
-  <tr>
-    <td>
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=ishansaini194&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&theme=default&cache_seconds=1800"
-        alt="Ishan's GitHub Stats"
-      />
-    </td>
-    <td>
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishansaini194&layout=compact&hide_border=true&theme=default&cache_seconds=1800"
-        alt="Top Languages"
-      />
-    </td>
-  </tr>
-</table>
-
-> If the cards are slow to load, GitHub may be rate-limiting the image cache. Refreshing after a minute usually fixes it.
-
----
-
-### 🤝 Let's Connect
-If you want to collaborate or chat about projects, feel free to reach out on LinkedIn or email.
