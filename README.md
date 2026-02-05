@@ -37,25 +37,14 @@
 
 ---
 
-### 🚀 Featured Projects
-- 🔧 **CI/CD Pipeline with GitHub Actions** – Automated build & deployment workflows  
-- 🐳 **Dockerized Golang REST API** – Containerized backend service  
-- ☸️ **Kubernetes Deployment (Minikube)** – Services, scaling & configuration  
-
----
-
 ### 📊 GitHub Stats
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=ishansaini194&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&cache_seconds=86400"
-    height="165"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ishansaini194&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishansaini194&layout=donut&hide_border=true&theme=tokyonight&cache_seconds=86400"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ishansaini194&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ishansaini194&theme=tokyonight"/>
 </p>
 
 ---
